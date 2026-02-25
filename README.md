@@ -34,8 +34,6 @@ I enjoy turning ideas into **clean, functional web applications** and I'm curren
 - VS Code  
 - Browser DevTools
 
----
-
 **Design & Creativity**
 
 - Figma (UI wireframes, layouts, simple prototypes)
