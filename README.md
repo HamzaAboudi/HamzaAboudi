@@ -36,6 +36,14 @@ I enjoy turning ideas into **clean, functional web applications** and I'm curren
 
 ---
 
+**Design & Creativity**
+
+- Figma (UI wireframes, layouts, simple prototypes)
+- Adobe Photoshop (image editing, assets, social visuals)
+- Adobe Illustrator (logos, icons, vector graphics)
+
+---
+
 ## 📂 Highlight Project
 
 ### 🏋️ Online Gym Website – “ProjetStage1”
